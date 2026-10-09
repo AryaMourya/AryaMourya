@@ -1,9 +1,9 @@
 
-## Arya  — First‑Year CS Student
+## Arya  — Second-year CS Student
 
 💻Computer science student
 Currently in my second year
-Created neural networks from scratch and made a tourism site
+Created a fintech related project specialized with and senior citizen option  and made a tourism site
 Also consistent with DSA and open to open-source programs for contribution.
 
 - Focus: Python, HTML5, CSS, Java, JavaScript, Python libraries (Numpy, Pandas) 
